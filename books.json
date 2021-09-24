@@ -1,6 +1,7 @@
 {
     "books": [
         {
+            "id": 1,
             "author": "Chinua Achebe",
             "country": "Nigeria",
             "language": "English",
@@ -9,6 +10,7 @@
             "year": 1958
         },
         {
+            "id": 2,
             "author": "Quentin Le Guellanff",
             "country": "France",
             "imageLink": " ",
@@ -17,6 +19,28 @@
             "pages": 209,
             "title": "Mon deuxi\u00e8me livre",
             "year": 2020
+        },
+        {
+            "author": "Quentin Le Guellanff",
+            "country": "France",
+            "imageLink": " ",
+            "language": "english",
+            "link": " ",
+            "pages": 209,
+            "title": "Mon troisi\u00e8me livre",
+            "year": 2020,
+            "id": 3
+        },
+        {
+            "author": "Quentin Le Guellanff",
+            "country": "France",
+            "imageLink": " ",
+            "language": "french",
+            "link": " ",
+            "pages": 209,
+            "title": "test update ",
+            "year": 2020,
+            "id": 5
         }
     ]
 }
